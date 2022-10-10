@@ -6,3 +6,7 @@ Don't that seem duplicate?
 
 This assumes, that the "summaries" of the events, i.e., the event names, are tagged by bracket-enclosed tags.
 For each tag a timecount is gathered by simply summing corresponding durations. 
+
+# Features
+
+- [ ] Use [ical Events](https://icalevents.readthedocs.io/en/latest/), which is originally supported instead of recurring_events_whatewer_lib.
