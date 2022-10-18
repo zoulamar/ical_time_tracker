@@ -14,3 +14,4 @@ For each tag a timecount is gathered by simply summing corresponding durations.
 - [ ] Add YAML config to allow automatization of cal download via private links.
   - [ ] Each calendar may have default tag to insert to untagged events.
 - [ ] Overlapping event detection.
+- [ ] Use [ical Events](https://icalevents.readthedocs.io/en/latest/), which is originally supported instead of recurring_events_whatewer_lib.
